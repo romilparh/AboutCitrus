@@ -278,7 +278,7 @@ public class MainActivity extends AppCompatActivity {
                     "wt88047",
                     "Tomato",
                     "Onyx",
-		    "OnePlus One(bacon)",
+		    "bacon",
                     "OnePlus2",
                     "Armani"
             };
