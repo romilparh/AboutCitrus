@@ -258,13 +258,13 @@ public class MainActivity extends AppCompatActivity {
             String listArray1[] = new String[]{
                     "Aashish Toshniwal",
                     "Aditya Garg",
-                    "Romil Parhwal",
                     "Davide Garberi",
                     "Hamza",
                     "Harsh Shandilya",
                     "Rahif",
                     "Rakesh Batra",
                     "Rohit Poroli",
+		    "Romil Parhwal",
                     "Subham Padhi",
                     "Vedant Kamalshekar"
             };
@@ -272,13 +272,13 @@ public class MainActivity extends AppCompatActivity {
             String listArray2[] = new String[]{
                     "Lettuce",
                     "Oneplus3/Kenzo",
-                    "OnePlus One(bacon)",
                     "Zuk z2/Lenovo Z2 Plus",
                     "Otus",
                     "Jalebi",
                     "wt88047",
                     "Tomato",
                     "Onyx",
+		    "OnePlus One(bacon)",
                     "OnePlus2",
                     "Armani"
             };
